@@ -1,3 +1,11 @@
+
+
+ ![Pantalla 1](public/img/1.png) 
+ ![Pantalla 2](public/img/2.png) 
+![Pantalla 3](public/img/3.png) 
+![Pantalla 3](public/img/4.png) 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

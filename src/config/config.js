@@ -1,10 +1,10 @@
 export const DB_CONFIG = {
-    apiKey: "AIzaSyCV2Eby1KEKOcuXYZgONGRfglPqiwf9VK4",
-    authDomain: "notasapp-adri.firebaseapp.com",
-    databaseURL: "https://notasapp-adri.firebaseio.com",
-    projectId: "notasapp-adri",
-    storageBucket: "notasapp-adri.appspot.com",
-    messagingSenderId: "1089021909382",
-    appId: "1:1089021909382:web:2a5628fab0e4523c12f407",
-    measurementId: "G-P8HPSTVHXJ"
+    apiKey: "AIzaSyBIuynqmaUlhiCGFiXdTvubwgSjnsM6_pA",
+    authDomain: "pizarra-bbd22.firebaseapp.com",
+    databaseURL: "https://pizarra-bbd22.firebaseio.com",
+    projectId: "pizarra-bbd22",
+    storageBucket: "pizarra-bbd22.appspot.com",
+    messagingSenderId: "246030570588",
+    appId: "1:246030570588:web:d632134f162a9b7f3b0299",
+    measurementId: "G-LB5CMK4692"
 }
